@@ -1,0 +1,190 @@
+.flex{
+    display: flex;
+}
+.heading{
+    font-family: 'IBM Plex Serif', serif;
+}
+.category{
+    font-family: 'IBM Plex Serif', serif;
+}
+.news{
+    color:red;
+}
+.sport{
+    color:blue;
+}
+.global{
+    color:olivedrab;
+}
+.health{
+    color:darkorange;
+}
+.politics{
+    color:green;
+}
+.crime{
+    color:mediumpurple;
+}
+.navHr{
+    color:black;
+    border: solid 1px black;
+}
+p {
+    font-family: 'Roboto', san-serif;
+    font-size: 18px;
+    line-height: 1.8em;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-family: 'Roboto', san-serif;
+    font-size: 12px;
+}
+.topStory h1 {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 53px;
+}
+.topStory .article{
+    margin-bottom: 30px;
+}
+
+.smallStories .headline{
+    margin-bottom: 30px;
+}
+
+.tag {
+    background-color: black;
+    padding: 7px;
+    width: fit-content;
+    height: fit-content;
+    width:77px;
+}
+
+.tag p {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    line-height: 12px;
+}
+
+hr {
+    margin: 0px;
+    padding: 0px;
+    border-top: 1px solid black;
+    border-bottom: none;
+}
+
+.author{
+   
+   text-align: right;
+    margin-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color:#4e4e4e;
+    margin-bottom: 7px;
+}
+.authorSmall{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color:#4e4e4e;
+    margin:0px;
+    text-align: right;
+    
+}
+.smallStories h3{
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.bottomStory{
+    margin-top: 50px;
+}
+.footer{
+    background-color: #4e4e4e;
+    /* height:300px;
+    margin-top:200px; */
+    width:auto;
+}
+.medium h3{
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.medium p{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 16px;
+}
+.adjustment{
+    margin-bottom: 50px;
+}
+/* Article css */
+
+.articleHeading{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'IBM Plex Serif', serif;
+    text-decoration: none;
+}
+
+.articleDateWriter{
+    font-size:22px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight:600;
+}
+.main p{
+    font-size: 19px;
+    line-height: 1.9em;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* adding author and story css */
+
+.addingHeading{
+    font-size: 50px;
+    font-family: 'IBM Plex Serif', serif;
+}
+.textForm{
+    font-size: 25px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: italic;
+}
+/* footer css */
+.footerHeading{
+   font-family: 'IBM Plex Serif', serif;
+   
+}
+.categoryFooter{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+}
+.footerContent{
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.inline{
+    padding-top: 70px;
+}
+
+/* author error css */
+.error{
+    font-size: 18px;
+    color: red;
+}
+
+/* font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Roboto', sans-serif; */
